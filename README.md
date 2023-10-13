@@ -2,7 +2,7 @@
 Using Phyton to implement a Convolution of two 1-Dimentional Array Signals only by using basic Phyton without any available modules.
 NumPy Convolve are only used to validate the convolution result.
 
-## Result Contents
+## Result
 The tryout result of the implementation of two 1-Dimentional Array Signals will be shown below:
 
 ### Convolution One
